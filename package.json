@@ -14,7 +14,7 @@
     "url": "https://github.com/RussHR/es6-boilerplate.git"
   },
   "author": "Russ Rinzler <russ.rinzler@gmail.com> (http://www.russrinzler.com)",
-  "license": "CC-BY-NC-4.0",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.7.7",
     "babel-core": "^6.24.1",
